@@ -6,7 +6,7 @@ import requests
 import streamlit as st
 
 DB = "paper_trading.db"
-API = "https://api.binance.com"
+API = API = "https://data-api.binance.vision"
 
 st.set_page_config(page_title="CRYPTO BOT 500", page_icon="₿", layout="wide")
 
